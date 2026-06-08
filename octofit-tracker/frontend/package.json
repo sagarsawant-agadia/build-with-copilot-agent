@@ -1,6 +1,7 @@
 {
   "name": "octofit-frontend",
   "version": "0.0.1",
+  "test": "test value",
   "private": true,
   "scripts": {
     "dev": "vite",
